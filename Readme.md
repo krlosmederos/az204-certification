@@ -1,6 +1,6 @@
-# AZ-204 Certification Exam
+# :cloud: AZ-204 Certification Exam :cloud:
 
-This is my study guide for AZ-204 Certification Exam.
+This is my study guide :pencil: for **AZ-204 Certification Exam**.
 
 - [AZ-204 Certification Exam](#az-204-certification-exam)
   - [Content](#content)
