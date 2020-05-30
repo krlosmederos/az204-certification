@@ -97,3 +97,4 @@ This is my study guide :pencil: for **AZ-204 Certification Exam**.
 ## Resources
 
 - [Official site MS](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
+- [Thomas Maurer study guide](https://www.thomasmaurer.ch/2020/03/az-204-study-guide-developing-solutions-for-microsoft-azure/)
