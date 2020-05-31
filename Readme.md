@@ -109,7 +109,7 @@ This is my study guide :pencil: for **AZ-204 Certification Exam**.
 
 #### Implement secure cloud solutions
 
-- secure app configuration data by using the App Configuration and KeyVault API
+- Secure app configuration data by using the App Configuration and KeyVault API
 - Manage keys, secrets, and certificates by using the KeyVault API
     - [About keys, secrets, and certificates](https://docs.microsoft.com/en-us/azure/key-vault/general/about-keys-secrets-certificates)
     - [Manage secrets with Azure Key Vault](https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/)
@@ -165,7 +165,12 @@ This is my study guide :pencil: for **AZ-204 Certification Exam**.
 - [Architect API integration in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/)
 - [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/)
 
+## Courses
+- [AZ-203 / AZ-204 Developing for Microsoft Azure Exam Prep  (Scott Duffy - Udemy)](https://www.udemy.com/course/70532-azure/)
+- [AZ-203 Developing Solutions for Microsoft Azure (Whizlabs)](https://www.whizlabs.com/learn/course/microsoft-azure-az-203/)
+- [AZ-203 Developing Solutions for Microsoft Azure (Pluralsight)](https://app.pluralsight.com/paths/certificate/developing-solutions-for-microsoft-azure-az-203)
+
 ## Links
 
-- [Official site MS](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
+- [Official site AZ-204 Certification Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 - [Thomas Maurer study guide](https://www.thomasmaurer.ch/2020/03/az-204-study-guide-developing-solutions-for-microsoft-azure/)
