@@ -111,6 +111,8 @@ This is my study guide :pencil: for **AZ-204 Certification Exam**.
 
 - secure app configuration data by using the App Configuration and KeyVault API
 - Manage keys, secrets, and certificates by using the KeyVault API
+    - [About keys, secrets, and certificates](https://docs.microsoft.com/en-us/azure/key-vault/general/about-keys-secrets-certificates)
+    - [Manage secrets with Azure Key Vault](https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/)
 - Implement Managed Identities for Azure resources
 
 ### Monitor, troubleshoot, and optimize Azure solutions (10-15%)
