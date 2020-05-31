@@ -31,10 +31,10 @@ This is my study guide :pencil: for **AZ-204 Certification Exam**.
 #### Implement IaaS solutions
 
 - Provision VMs
-  - [Intro to VM](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-virtual-machines/)
-  - [Create Windows VM](https://docs.microsoft.com/es-es/learn/modules/create-windows-virtual-machine-in-azure/)
-  - [Create Linux VM](https://docs.microsoft.com/es-es/learn/modules/create-linux-virtual-machine-in-azure/)
-  - [VM with Azure CLI](https://docs.microsoft.com/es-es/learn/modules/manage-virtual-machines-with-azure-cli/)
+  - [Intro to VM](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/)
+  - [Create Windows VM](https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/)
+  - [Create Linux VM](https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/)
+  - [VM with Azure CLI](https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/)
   - [VM with Azure PowerShell](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-manage-vm)
 
 - Configure VMs for remote access
