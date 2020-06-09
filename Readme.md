@@ -103,9 +103,16 @@ This is my study guide :pencil: for **AZ-204 Certification Exam**.
 #### Implement user authentication and authorization
 
 - Implement OAuth2 authentication
+    - [Protect an API by using OAuth 2.0 with Azure Active Directory and API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-protect-backend-with-aad)
+    - [Authentication basics](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-vs-authorization)
 - Create and implement shared access signatures
+    - [Storage SAS overview](https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-overview)
+    - [Secure Azure Storage account](https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/)
+    - [Control access to Azure Storage with shared access signatures](https://docs.microsoft.com/en-us/learn/modules/control-access-to-azure-storage-with-sas/)
 - Register apps and use Azure Active Directory to authenticate users
 - Control access to resources by using role-based access controls (RBAC)
+    - [Secure your Azure resources with role-based access control (RBAC)](https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/)
+    - [Manage access to an Azure subscription by using Azure role-based access control (RBAC)](https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/)
 
 #### Implement secure cloud solutions
 
@@ -148,7 +155,10 @@ This is my study guide :pencil: for **AZ-204 Certification Exam**.
 
 #### Develop event-based solutions
 
+- [Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services)
+
 - Implement solutions that use Azure Event Grid
+    - [Event grid overview](https://docs.microsoft.com/en-us/azure/event-grid/overview)
 - Implement solutions that use Azure Notification Hubs
 - Implement solutions that use Azure Event Hub
 
