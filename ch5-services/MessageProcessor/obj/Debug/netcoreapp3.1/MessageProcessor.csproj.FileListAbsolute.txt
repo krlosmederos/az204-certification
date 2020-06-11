@@ -1,0 +1,17 @@
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/bin/Debug/netcoreapp3.1/MessageProcessor.deps.json
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/bin/Debug/netcoreapp3.1/MessageProcessor.runtimeconfig.json
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/bin/Debug/netcoreapp3.1/MessageProcessor.runtimeconfig.dev.json
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/bin/Debug/netcoreapp3.1/MessageProcessor.dll
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/bin/Debug/netcoreapp3.1/MessageProcessor.pdb
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/bin/Debug/netcoreapp3.1/Azure.Storage.Common.dll
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/bin/Debug/netcoreapp3.1/Azure.Storage.Queues.dll
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/obj/Debug/netcoreapp3.1/MessageProcessor.csprojAssemblyReference.cache
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/obj/Debug/netcoreapp3.1/MessageProcessor.AssemblyInfoInputs.cache
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/obj/Debug/netcoreapp3.1/MessageProcessor.AssemblyInfo.cs
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/obj/Debug/netcoreapp3.1/MessageProcessor.csproj.CoreCompileInputs.cache
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/obj/Debug/netcoreapp3.1/MessageProcessor.csproj.CopyComplete
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/obj/Debug/netcoreapp3.1/MessageProcessor.dll
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/obj/Debug/netcoreapp3.1/MessageProcessor.pdb
+/Users/krlosmederos/sources/az204-certification/ch5-services/MessageProcessor/obj/Debug/netcoreapp3.1/MessageProcessor.genruntimeconfig.cache
